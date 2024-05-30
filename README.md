@@ -10,12 +10,18 @@ This repository contains two Figma design projects:
 
 To view my work:
 
-1. Open the `view_figma_projects.html` file to view the embedded Figma projects. You can click on any of the frames to navigate to the Figma page.
+1. Open the [`view_figma_projects.html`](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/view_figma_projects.html) file to view the embedded Figma projects. You can click on any of the frames to navigate to the Figma page.
 
 OR
 
-2. View the exported Figma projects in the below PDF files:
+2. View the exported Figma projects in the below PNG files:
     
-    a. view_figma_projects.html
+    a. [E-learning website.png](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/E-learning%20website.png)
 
-    b. music app UI.pdf
+    b. [Music app UI.png](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/Music%20app%20UI.png)
+
+
+## Documentation files
+
+1. [E-learning Company Website Design.pdf](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/E-learning%20Company%20Website%20Design.pdf)
+2. [Music Application (Mobile App UI).pdf](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/Music%20Application%20(Mobile%20App%20UI).pdf) 
