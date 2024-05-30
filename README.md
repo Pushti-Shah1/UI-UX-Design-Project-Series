@@ -10,7 +10,7 @@ This repository contains two Figma design projects:
 
 To view my work:
 
-1. Open the [`view_figma_projects.html`](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/view_figma_projects.html) file to view the embedded Figma projects. You can click on any of the frames to navigate to the Figma page.
+1. Open the [`view_figma_projects.html`](https://raw.githack.com/Pushti-shah1/UI-UX-Design-Project-Series/main/view_figma_projects.html) file to view the embedded Figma projects. You can click on any of the frames to navigate to the Figma page.
 
     a. E-learning website on Figma- [Link](https://www.figma.com/design/jPKcGboMJ6AdhiPIflSto8/E-learning-website?node-id=0-1&t=NPJjVpe1q5EJrU0Y-1)
    
