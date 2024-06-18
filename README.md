@@ -49,4 +49,4 @@ OR
 
 2. View the exported Figma project in the below PNG file:
 
-    a. [Techy Software Company.png](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/E-learning%20website.png)
+    a. [Techy Software Company.png](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/Techy%20Software%20Company.png)
