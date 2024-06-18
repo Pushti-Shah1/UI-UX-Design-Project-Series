@@ -41,9 +41,7 @@ This contains one Figma design project:
 
 To view my work:
 
-1. Open the [`view_figma_projects.html`](https://raw.githack.com/Pushti-shah1/UI-UX-Design-Project-Series/main/view_figma_projects.html) file to view the embedded Figma projects. You can click on any of the frames to navigate to the Figma page.
-
-    a. Techy Software Company website on Figma- [Link](https://www.figma.com/design/X4IcZGJwx7fbUs02IX3Bqn/Techy-Software-Company?t=wWuZc8B6RSrjRGQn-0)
+1. Techy Software Company website on Figma- [Link](https://www.figma.com/design/X4IcZGJwx7fbUs02IX3Bqn/Techy-Software-Company?t=wWuZc8B6RSrjRGQn-0)
 
 OR
 
