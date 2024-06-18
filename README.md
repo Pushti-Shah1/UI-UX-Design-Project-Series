@@ -1,7 +1,7 @@
 # UI-UX-Design-Project-Series
 # Phase 1 Projects
 
-This repository contains two Figma design projects:
+This contains two Figma design projects:
 
 1. **Project 1: E-learning Company Website Design**
 2. **Project 2: Music Application (Mobile App UI)**
@@ -29,3 +29,24 @@ OR
 
 1. [E-learning Company Website Design.pdf](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/E-learning%20Company%20Website%20Design.pdf)
 2. [Music Application (Mobile App UI).pdf](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/Music%20Application%20(Mobile%20App%20UI).pdf) 
+
+
+# Phase 2 Project
+
+This contains one Figma design project:
+
+1. **Project 1: Design for Techy Software Company Website**
+
+## How to View
+
+To view my work:
+
+1. Open the [`view_figma_projects.html`](https://raw.githack.com/Pushti-shah1/UI-UX-Design-Project-Series/main/view_figma_projects.html) file to view the embedded Figma projects. You can click on any of the frames to navigate to the Figma page.
+
+    a. Techy Software Company website on Figma- [Link](https://www.figma.com/design/X4IcZGJwx7fbUs02IX3Bqn/Techy-Software-Company?t=wWuZc8B6RSrjRGQn-0)
+
+OR
+
+2. View the exported Figma project in the below PNG file:
+
+    a. [Techy Software Company.png](https://github.com/Pushti-Shah1/UI-UX-Design-Project-Series/blob/main/E-learning%20website.png)
